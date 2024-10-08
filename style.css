@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: grey;
+    padding-left: 20px ;
+}
+.r{
+   background-color: black;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    padding-top: 20px;
+}
+.r h1{
+   
+    color:white;
+
+    font-size: 20px;
+    
+    
+}
+.logo{
+
+    padding-top: 20px;
+    display:flex;
+    flex-direction: row;
+    align-items: left;
+
+    
+}
+.logo h1{
+    max-height: 10px;
+    width:auto;
+
+}
